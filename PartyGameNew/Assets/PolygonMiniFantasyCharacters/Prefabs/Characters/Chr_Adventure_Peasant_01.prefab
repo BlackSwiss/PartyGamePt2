@@ -3840,7 +3840,7 @@ GameObject:
   - component: {fileID: 5172269407272676457}
   m_Layer: 0
   m_Name: Chr_Adventure_Peasant_01
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3967,7 +3967,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 120
+  m_Constraints: 112
   m_CollisionDetection: 1
 --- !u!1 &1415646826773858
 GameObject:
@@ -5198,7 +5198,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1483017425358490}
-  m_LocalRotation: {x: 0.000000014639314, y: -0.0000000027811444, z: -0.18663995, w: 0.98242843}
+  m_LocalRotation: {x: 0.000000014639314, y: -0.0000000027811444, z: -0.18663995,
+    w: 0.98242843}
   m_LocalPosition: {x: 0.09232825, y: 0.03782343, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:

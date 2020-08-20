@@ -50,7 +50,7 @@ public class PlayerSetUpMenuController : MonoBehaviour
        // PlayAreaSpawn = location.transform;
        // if (PlayAreaSpawn == null)
          //   Debug.Log("Haven't found one yet :/");
-        obj = Instantiate(PlayersIdol[count], spawn.position, Quaternion.Euler(0, 180, 0));
+        obj = Instantiate(PlayersIdol[count], spawn.position, spawn.rotation, spawn);
     }
     public void Select()
     {

@@ -18,7 +18,7 @@ MonoBehaviour:
     value: 1
   focusDistance:
     overrideState: 1
-    value: 7.52
+    value: 8.31
   aperture:
     overrideState: 1
     value: 1
@@ -49,10 +49,10 @@ MonoBehaviour:
     value: {x: 1, y: 99}
   minLuminance:
     overrideState: 1
-    value: -0.7
+    value: -1.07
   maxLuminance:
     overrideState: 1
-    value: 1
+    value: 1.29
   keyValue:
     overrideState: 0
     value: 1
@@ -146,7 +146,7 @@ MonoBehaviour:
     value: 0
   saturation:
     overrideState: 1
-    value: 30
+    value: 6
   brightness:
     overrideState: 0
     value: 0
@@ -155,7 +155,7 @@ MonoBehaviour:
     value: 0
   contrast:
     overrideState: 1
-    value: -5
+    value: -3
   mixerRedOutRedIn:
     overrideState: 0
     value: 100

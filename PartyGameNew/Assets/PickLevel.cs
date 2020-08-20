@@ -36,18 +36,11 @@ public class PickLevel : MonoBehaviour
     {
         Transition.SetTrigger("Start");
 
-        yield return new WaitForSeconds(1f);
-        SceneManager.LoadScene(index);
+        yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene("Tron");
+        //SceneManager.LoadScene(index);
     }
-    public void MiniGamePick()
-    {
-        //TODO
-        //Create a timer function that counts down to next game selected
-        //Have a random number saved to be the next mini game level
-        //Display the Mini Game name
-        //Loading screen maybe?
-        //Once Timer is done, load Scene
-    }
+
     private int SelectLevel()
     {
         int index = Random.Range(5, 7);
