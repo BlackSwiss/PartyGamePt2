@@ -1,5 +1,3 @@
-sceneSetups:
-- path: Assets/Scenes/Multiplayer Screen.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d1c8fc0f5bb30f7af73f82813e141b9ed4e573c6ac80ab37bfc9901437899aa
+size 104
